@@ -8,3 +8,7 @@ Key features include secure user authentication via Clerk, role-based access con
 
 Frontend URL:https://skillmentor-frontend-final.vercel.app/
 Backend URL:https://skillmentor-final-project-production.up.railway.app/api/v1/skillmentor/
+
+Git URL 
+skillmentor_frontend_final:https://github.com/Mohamed-Salman-Afhan/skillmentor_frontend_final.git
+skillmentor-final-project:https://github.com/Mohamed-Salman-Afhan/skillmentor-final-project.git
